@@ -48,3 +48,15 @@ npm run build
 ```sh
 npm run test:unit
 ```
+## Frameworks and Libraries Used
+
+- **Vue 3**: The progressive JavaScript framework for building user interfaces.
+- **Vite**: A build tool that provides a faster and leaner development experience.
+- **Vue Router**: The official router for Vue.js, enabling navigation between views.
+- **Pinia**: The state management library for Vue.js.
+- **Bootstrap**: A popular CSS framework for responsive design and UI components.
+- **ESLint**: A tool for identifying and fixing problems in JavaScript code.
+- **Prettier**: A code formatter that enforces a consistent style.
+- **Vitest**: A testing framework for unit testing Vue components.
+- **Vite Plugin Vue**: A Vite plugin for Vue.js that enhances development experience.
+- **jsdom**: A JavaScript implementation of the DOM for testing.

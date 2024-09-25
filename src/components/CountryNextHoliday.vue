@@ -3,13 +3,12 @@
     <p>
       {{ props.country.name }}
     </p>
-    <p>{{ holiday?.name }}, {{ holiday?.localName }}</p>
-
-    <p>{{ holiday?.date }}</p>
+    <HolidayComponent v-if="holiday" :holiday="holiday"></HolidayComponent>
   </div>
 </template>
 <script setup>
 import { ref } from 'vue'
+import HolidayComponent from './HolidayComponent.vue'
 
 const props = defineProps(['country'])
 

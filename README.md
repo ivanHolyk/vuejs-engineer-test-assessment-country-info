@@ -16,7 +16,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ### Git repo clone
 
 ```sh
-git clone git@github.com:ivanHolyk/vuejs-engineer-test-assessment-country-info.git
+git clone https://github.com/ivanHolyk/vuejs-engineer-test-assessment-country-info.git
 ```
 
 ### Change directory

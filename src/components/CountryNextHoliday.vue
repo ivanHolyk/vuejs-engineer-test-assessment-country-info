@@ -1,7 +1,9 @@
 <template>
   <div>
     <p>
-      {{ props.country.name }}
+      <RouterLink :to="`/country/${props.country.countryCode}`">
+        {{ props.country.name }}
+      </RouterLink>
     </p>
     <HolidayComponent v-if="holiday" :holiday="holiday"></HolidayComponent>
   </div>

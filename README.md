@@ -1,6 +1,6 @@
 # vuejs-engineer-test-assessment-country-info
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue.js engineer test assessment - Country Info using Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -10,7 +10,22 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+
 ## Project Setup
+
+### Git repo clone
+
+```sh
+git clone git@github.com:ivanHolyk/vuejs-engineer-test-assessment-country-info.git
+```
+
+### Change directory
+
+```sh
+cd vuejs-engineer-test-assessment-country-info
+```
+
+### Dependecies installation
 
 ```sh
 npm install
